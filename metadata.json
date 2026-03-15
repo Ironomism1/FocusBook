@@ -1,0 +1,5 @@
+{
+  "name": "FocusBook",
+  "description": "A deep focus ecosystem featuring biological tracking, personalized news, and adaptive GUI templates.",
+  "requestFramePermissions": ["camera"]
+}
